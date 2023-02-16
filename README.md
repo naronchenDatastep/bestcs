@@ -17,4 +17,4 @@ CS resources for UofR students
 4. **_Every little helps._**
   - Found a page that explained something really well? Add it here, and others will benefit too!
 
-### Reference from compsoc edinburgh
+### Reference from compsoc edinburghh
